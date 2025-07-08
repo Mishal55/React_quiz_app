@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f3f0ff;
+  color: #342e5c;
+}
+
+.app {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(100, 80, 180, 0.2);
+  text-align: center;
+}
+
+.question-card, .result-screen {
+  margin-top: 20px;
+}
+
+.options button {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background-color: #e0d7ff;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.options button:hover {
+  background-color: #c2b5ff;
+}
+
+.result-screen button {
+  padding: 10px 20px;
+  background-color: #6a1b9a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
