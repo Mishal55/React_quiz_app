@@ -12,4 +12,4 @@ A simple and responsive Quiz App built with **React.js** that lets users test th
 
 
 
-![Screenshot (39)](https://github.com/user-attachments/assets/c9b92fd5-c158-4113-bcf5-28192c9fca83)
+![Screenshot (39)](https://github.com/user-attachments/assets/ae3382ad-6307-44fd-bf76-8736a85d6d7b)
